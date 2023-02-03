@@ -1,5 +1,5 @@
 # GraphGPT
-### Natural Language → Knowledge Graph
+### Natural Language → Knowledge Graph - CHANGE
 
 ![demo](demo.gif)
 
